@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="poiStream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poiStream_jar</output-path>
+    <root id="archive" name="poiStream.jar">
+      <element id="module-output" name="poiStream" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/xerces-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-ooxml-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/curvesapi-1.03.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-ooxml-3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/xmlbeans-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/xml-apis-1.0.b2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-ooxml-3.7-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-ooxml-schemas-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/poi-ooxml-schemas-3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poiTest/lib/geronimo-stax-api_1.0_spec-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
